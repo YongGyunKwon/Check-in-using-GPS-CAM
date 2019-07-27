@@ -18,3 +18,16 @@ GPS와 CAMERA, 얼굴인식(인공지능)을 이용한 출석 및 Check in 서�
 
 
 ps. 사진 데이터는 kwon, yangpang, 류현진, 보겸, 손흥민 사진이 학습되어있다.
+
+
+프로그램을 구현하기 위해서 app2.py 를 Run(실행) 시켜야 한다. (app2.py에 app.py를 import 시켰다.)
+
+
+
+프로그램을 실행하기전 
+pip install flask
+pip install face_recognition
+pip install opencv
+pip install cv2
+
+를 터미널에 입력해야 한다.(파이참 기준)
