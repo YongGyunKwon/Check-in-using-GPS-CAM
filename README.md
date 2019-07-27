@@ -29,5 +29,8 @@ pip install flask
 pip install face_recognition
 pip install opencv
 pip install cv2
+pip install geocoder
+pip install math
+pip install googlemaps
 
 를 터미널에 입력해야 한다.(파이참 기준)
